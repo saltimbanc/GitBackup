@@ -5,7 +5,11 @@ This script may seem redundant since git will take care of all of that but it is
 
 Usage example.
 
+
 Backup all the changed file of the current repository (using the script).
+
 Delete the repository.
+
 Clone the new repository.
+
 Merge the contents of the backed up folder with the new repository (folder merging, is supported by most file explorer apps).
