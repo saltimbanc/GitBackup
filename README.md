@@ -8,7 +8,7 @@ Usage example.
 
 Backup all the changed file of the current repository (using the script).
 
-Delete the repository.
+Delete the repository (only from your file system).
 
 Clone the new repository.
 
